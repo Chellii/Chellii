@@ -3,9 +3,6 @@
 <h3 align="center"> A passionate Software Engineer, and a Witch in my free time 🤫.</h3>
 <h4 align="center"> I love C++, Javascript, and Dogs. </h4>
 
-
-- 📫 How to reach me **eloiriaglichaimae2@gmail.com**
-
 <h2 > Badges </h2>
 <!-- <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/cel-oiri" alt="cel-oiri's 42 stats" /></a>
@@ -41,6 +38,19 @@
  <img src="https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code"/>
  <img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman"/>
 </p>
+
+<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+
+<p align="center">
+<a href="mailto: eloiriaglichaimae2@gmail.com">
+ <img src="https://img.shields.io/badge/-Chellii-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eloiriaglichaimae2@gmail.com" width="80"/>
+</a>
+<a href="https://www.linkedin.com/in/chaimae-el-oiriagli-44804518a/">
+ <img src="https://img.shields.io/badge/-Chellii-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chaimae-el-oiriagli-44804518a/" width="80"/>
+</a>
+</p>
+
+
 <!--
 <p align="left"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="40" height="40"/>
