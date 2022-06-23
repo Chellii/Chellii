@@ -42,7 +42,7 @@
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<a href="mailto: eloiriaglichaimae2@gmail.com">
+<a href="mailto:eloiriaglichaimae2@gmail.com">
  <img src="https://img.shields.io/badge/-Chellii-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eloiriaglichaimae2@gmail.com" width="80"/>
 </a>
 <a href="https://www.linkedin.com/in/chaimae-el-oiriagli-44804518a/">
