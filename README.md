@@ -6,7 +6,17 @@
 
 - 📫 How to reach me **eloiriaglichaimae2@gmail.com**
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chellii" alt="Chellii" /></a> </p>
+### Badges
+<!-- <p align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/cel-oiri" alt="cel-oiri's 42 stats" /></a>
+</p> -->
+
+| [![Chelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chellii&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dracula)](https://github.com/Chellii?tab=repositories) | [![chelli's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chellii&layout=compact&hide_border=true&theme=dracula)](https://github.com/Chellii?tab=repositories) |
+|:-:|:-:|
+
+ <b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Chellii"><img src="https://activity-graph.herokuapp.com/graph?username=Chellii&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 
