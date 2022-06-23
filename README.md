@@ -11,5 +11,5 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
-    <img src="![image](https://user-images.githubusercontent.com/56842722/175310018-52ee1184-042d-4c83-bb6e-df7d36325d32.png)" alt="c++" width="40" height="40"/> 
+    <img src="[![image](https://user-images.githubusercontent.com/56842722/175310018-52ee1184-042d-4c83-bb6e-df7d36325d32.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png)" alt="c++" width="40" height="40"/> 
    </p>
