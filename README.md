@@ -11,5 +11,5 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
-    <img src="https://logo-download.com/wp-content/data/images/svg/C++-logo.svg" alt="c++" width="40" height="40"/> 
+    <img src="https://logo-download.com/wp-content/data/images/svg/C++-logo.svg" alt="c++" width="60" height="60"/> 
    </p>
