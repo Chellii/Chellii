@@ -1,7 +1,7 @@
-<p align="center"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="800" height="300"/> </p>
 <h1 align="center"> Hi  🧙‍♀️, I'm Chaimaa El Oiriagli </h1>
+<p align="center"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="800" height="300"/> </p>
 <h3 align="center"> A passionate Software Engineer, and a Witch in my free time 🤫.</h3>
-<h5 align="center"> I love C++, Javascript, and Dogs. </h5>
+<h4 align="center"> I love C++, Javascript, and Dogs. </h4>
 
 
 - 📫 How to reach me **eloiriaglichaimae2@gmail.com**
