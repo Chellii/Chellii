@@ -3,11 +3,12 @@
 
 * I love C++, Javascript, and Dogs.
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chellii" alt="Chellii" /></a> </p>
+<p align="center"><a href="https://profile.intra.42.fr/users/cel-oiri"><img src="https://badge.mediaplus.ma/darkblue/cel-oiri" alt="cel-oiri's 42 stats" /></a></p>
 
 - 📫 How to reach me **eloiriaglichaimae2@gmail.com**
 
-<p align="center"><a href="https://profile.intra.42.fr/users/cel-oiri"><img src="https://badge.mediaplus.ma/darkblue/cel-oiri" alt="cel-oiri's 42 stats" /></a></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chellii" alt="Chellii" /></a> </p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
