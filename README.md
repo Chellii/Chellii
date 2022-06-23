@@ -1,7 +1,6 @@
 <h1 align="center"> Hi  🧙‍♀️, I'm Chaimaa El Oiriagli </h1>
 <h3 align="center"> A passionate Software Engineer, and a Witch in my free time 🤫.</h3>
-
-* I love C++, Javascript, and Dogs.
+<h5 align="center"> I love C++, Javascript, and Dogs. </h5>
 
 <p align="center"><a href="https://profile.intra.42.fr/users/cel-oiri"><img src="https://badge.mediaplus.ma/darkblue/cel-oiri" alt="cel-oiri's 42 stats" /></a></p>
 
