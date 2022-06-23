@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **eloiriaglichaimae2@gmail.com**
 
-<span align="center"><a href="https://profile.intra.42.fr/users/cel-oiri"><img src="https://badge.mediaplus.ma/darkblue/cel-oiri" alt="cel-oiri's 42 stats" /></a></span>
+<p align="center"><a href="https://profile.intra.42.fr/users/cel-oiri"><img src="https://badge.mediaplus.ma/darkblue/cel-oiri" alt="cel-oiri's 42 stats" /></a></p>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
