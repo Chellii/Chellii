@@ -8,6 +8,10 @@
 <!-- <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/cel-oiri" alt="cel-oiri's 42 stats" /></a>
 </p> -->
+<p align="center">
+<img src="https://badge.mediaplus.ma/colorfulwaves/cel-oiri" alt="cel-oiri's 42 stats" />
+</p>
+<!-- https://badge.mediaplus.ma/colorfulwaves/cel-oiri -->
 
 | [![Chelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chellii&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dracula)](https://github.com/Chellii?tab=repositories) | [![chelli's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chellii&layout=compact&hide_border=true&theme=dracula)](https://github.com/Chellii?tab=repositories) |
 |:-:|:-:|
